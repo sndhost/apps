@@ -1,5 +1,4 @@
-<!-- saved from url=(0038)http://apps.clickers.info/ptcevodb.php -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>61218e552713768239bd066d32f32906
+61218e552713768239bd066d32f32906
 76e5b09b796951a31dbacc83ccc2f2b1
 998f82f26a4388ab59168093a30efcea
 5ac63385b947930850ded27bcff129bd
@@ -500,7 +499,3 @@ fe6d8f0103295cb22bc0fb1232c0b442
 78c2e2b30a06ab956fb55a86f8084c40
 145cff63f2f48e4cab763ec52b519031
 62dd83b9dd0fbfc0a67d8ab2753e809a
-
-<!-- Hosting24 Analytics Code -->
-<script type="text/javascript" src="./ptcevodb.php_files/count.php"></script>
-<!-- End Of Analytics Code -->
