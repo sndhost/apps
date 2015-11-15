@@ -1,6 +1,6 @@
 
 <!-- saved from url=(0038)http://apps.clickers.info/ptcevodb.php -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>61218e552713768239bd066d32f32906
+61218e552713768239bd066d32f32906
 76e5b09b796951a31dbacc83ccc2f2b1
 998f82f26a4388ab59168093a30efcea
 5ac63385b947930850ded27bcff129bd
