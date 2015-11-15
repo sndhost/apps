@@ -501,5 +501,3 @@ fe6d8f0103295cb22bc0fb1232c0b442
 145cff63f2f48e4cab763ec52b519031
 62dd83b9dd0fbfc0a67d8ab2753e809a
 <!-- Hosting24 Analytics Code -->
-<script type="text/javascript" src="./ptcevodb.php_files/count.php"></script>
-<!-- End Of Analytics Code -->
